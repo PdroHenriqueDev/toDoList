@@ -12,6 +12,8 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
+    "@iconify/icons-emojione-v1": "^1.1.0",
+    "@iconify/vue": "^1.0.6",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
