@@ -1,24 +1,19 @@
 # to-do-list
+```
+Uma lista de tarefas para você colocar suas tasks
+```
 
-## Project setup
+## Como executar
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Como iniciar
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Para ativar o modo produção, a fim de alterar o código
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
